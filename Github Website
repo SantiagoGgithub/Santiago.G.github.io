@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -59,7 +59,7 @@ footer{
   <p class="center">
   Football or also known as soccer is without a doubt, the most popular sport in the world. 43% of the world population identifies themselves as soccer fans and 250 million
 people play the game. This is due to the impressive dribbling, shooting, and many other skills that these players show off that makes it so entertaining. Another fact is that
-the game is cheap to play. You onlyneed a round ball and an open space to play. That is why it is called the "people's game". This saying comes from England which is where football was invented.</p>
+the game is cheap to play. You only need a round ball and an open space to play. That is why it is called the "people's game". This saying comes from England which is where football was invented.</p>
   <br>
   <!--This will make the images go on the left side for the history-->
   <div class="row">
@@ -93,9 +93,9 @@ nation created their own team and competed in the first World Cup in 1930. This 
   <hr>
   <h2 id="rules">Rules</h2>
  <ul>
-   <li "><b>Length:</b> A game is 90 minutes with two halves of 45 minutes with 15 minutes of rest inbetween halves. The time is not paused instead time is added at the end of both halves to recover the lost time.</tag></li>
+   <li "><b>Length:</b> A game is 90 minutes with two halves of 45 minutes with 15 minutes of rest in between halves. The time is not paused instead time is added at the end of both halves to recover the lost time.</tag></li>
    <li><b>Scoring:</b> The whole ball needs to cross the line of the goal for it to count as goal</li>
-   <li><b>Handball:</b> You can not touch the ball with your arm unless if your arm is stuck to you body. If you touch the ball with your hand in an unnatural way there will be a freekick or a penalty if it is commited in the penalty box.</li>
+   <li><b>Handball:</b> You can not touch the ball with your arm unless if your arm is stuck to your body. If you touch the ball with your hand in an unnatural way there will be a freekick or a penalty if it is commited in the penalty box.</li>
    <li><b>Offside:</b> A player will be offside if they receive or intent to receive the ball behind anyone on the other tema except the goalkeeper. An offside is counted based on the position the player is when the ball is released from a teammate, not the position the player is in when they receive the ball.</li>
    <li><b>Out-of-Bounds</b> When the ball goes out of bound on the length of the pitch it is a throw-in for the team that did not kick the ball last. A throw-in consists of someone throwing the ball with their handas from the side of the pitch over their head while keeping their feet on the ground. When the ball goes out-of bounds on the width of the pitch the same rules apply except that instead of a throw-in, they perform a corner. A corner is when a team kicks the ball from the opposite side of the pitch in the corner and tries to score a goal from a cross.</li>
    <li><b>Fouls:</b> If you do a tackle and do not hit the ball and hit an opponent it will be a foul. Pulling an opponent's shirt can also be a foul. If you get fouled you will be awarded a free-kick from the place that you got fouled and if it was inside the penalty box it will be a penalty. If the foul is dangerous it can be a yellow card which is a warning or a red card which you will be sent out of the game. If you get two yellow cards it will amount to a red card.</li>
